@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Machine-Learning-Fundamentals/pulls)
 
 
-# FIND THE BOOK HERE: https://www.amazon.com/gp/product/B07KX377TT?
+# FIND THE BOOK HERE: https://www.amazon.com/gp/product/B07KX377TT
 
 # Machine Learning Fundamentals
 As machine learning algorithms become popular, new tools that optimize these algorithms are also being developed. Machine Learning Fundamentals explains the scikit-learn API, which is a package created to facilitate the process of building machine learning applications. You will learn how to explain the differences between supervised and unsupervised models, and how to apply some popular algorithms to real-life datasets. 
